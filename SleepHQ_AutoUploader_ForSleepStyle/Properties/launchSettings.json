@@ -3,8 +3,8 @@
     "SleepHQ_AutoUploader_ForSleepStyle": {
       "commandName": "Project",
       "environmentVariables": {
-        "CLIENT_ID": "mW-x2q4M4to7EddAlH9ygJjIZUqzvdaCIa4VpiLr72E",
-        "CLIENT_SECRET": "AcGKaGJII3o68AlN0l3AV_FfstRqDs9XZ-e9TwUUfoY"
+        "CLIENT_ID": "yourClientID",
+        "CLIENT_SECRET": "yourClienSecret"
       }
     }
   }
